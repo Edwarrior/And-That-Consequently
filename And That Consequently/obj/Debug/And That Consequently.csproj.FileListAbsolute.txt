@@ -1,0 +1,15 @@
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\bin\Debug\And That Consequently.exe.config
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\bin\Debug\And That Consequently.exe
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\bin\Debug\And That Consequently.pdb
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\And That Consequently.csproj.AssemblyReference.cache
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\MainWindow.g.cs
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\App.g.cs
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\And That Consequently_MarkupCompile.cache
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\And That Consequently_MarkupCompile.lref
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\MainWindow.baml
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\And That Consequently.g.resources
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\And_That_Consequently.Properties.Resources.resources
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\And That Consequently.csproj.GenerateResource.cache
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\And That Consequently.csproj.CoreCompileInputs.cache
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\And That Consequently.exe
+C:\Users\ecpto\Documents\C#\And That Consequently\And That Consequently\obj\Debug\And That Consequently.pdb
