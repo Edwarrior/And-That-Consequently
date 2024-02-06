@@ -5,11 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:And_That_Consequently"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="400"
+        Title="And That, Consequently" Height="500" Width="400"
         Icon="Assets/uk.ico"
         Background="CadetBlue">
-        
-    <Grid>
-        
-    </Grid>
+
+    <Canvas Name="MyCanvas" Focusable="True" Background="CadetBlue" MouseDown="Canvas_MouseDown">
+
+        <Rectangle Name="UK_Map" Height="150" Width="100" Fill="BlanchedAlmond" Canvas.Left="150" Canvas.Top="167" />
+
+
+
+    </Canvas>
+
+
+
 </Window>
